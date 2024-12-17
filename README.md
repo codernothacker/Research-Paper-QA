@@ -55,7 +55,7 @@
 1. **Clone the Repository:**
 ```bash
 git clone https://github.com/codernothacker/Research-Paper-QA.git
-cd arxiv
+cd Research-Paper-QA
 ```
 2. **Install Dependencies:** Ensure Python >= 3.8 is installed.
 ```bash
