@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+requests
+langchain
+langchain_community
+faiss-cpu
+PyMuPDF
+dataclasses
